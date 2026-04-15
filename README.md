@@ -1,4 +1,4 @@
-# XrayR wyx2685 修改版 一键安装指南
+# XrayR  修改版 一键安装指南
 
 支持 VLESS + TCP + Reality 协议，兼容 NewV2board 面板。
 
